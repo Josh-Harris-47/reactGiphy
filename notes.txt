@@ -1,0 +1,14 @@
+Flux Triggers
+
+  Events
+    1. getdefaultprops
+    2. getinitialstate
+    3. componentwillmount
+    4. render
+    5. componentdidmount
+  Updating
+    1. componentwillreceiveprops
+    2. shouldcomponenetupdate
+    3. componentwillupdate
+    4. render
+    5. componentdidupdate
